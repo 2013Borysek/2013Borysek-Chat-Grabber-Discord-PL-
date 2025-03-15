@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-TOKEN = "MTM1MDA3NDgwMzc1OTA4NzY2OA.GVAkK7.Mz9kYiDpv9QDhz4cc5rzSfW4sDZ20yx_z86tY8"
+TOKEN = "" #<---- Twój TOKEN swojego bota
 
 intents = discord.Intents.default()
 intents.message_content = True  # Włącz, aby bot mógł czytać wiadomości
